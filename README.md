@@ -1,2 +1,1 @@
-# property-data-cleaning-project
-Data cleaning and transformation project using Python and Pandas on raw property datasets.
+End-to-end data analytics project using Python, SQL, and Power BI
