@@ -53,7 +53,7 @@ Cleaned data was migrated into a MySQL database instance. To maximize performanc
 
 ## 5. Power BI Dashboard Development
 
-An interactive, 4-page Power BI dashboard was constructed utilizing a dark-themed grid layout optimized for executive decision-making. 
+An interactive, 5-page Power BI dashboard was constructed utilizing a dark-themed grid layout optimized for executive decision-making. 
 
 ### 📊 Report Interface Architecture
 ### Page 1: Executive Overview:KPI cards and high-level market snapshot ,Summary of total market performance 
@@ -86,7 +86,7 @@ An interactive, 4-page Power BI dashboard was constructed utilizing a dark-theme
 
 * `📁 1_Python_Pipeline/`: Jupyter Notebook containing the Pandas preprocessing, imputation logic, and outlier percentile caps.
 * `📁 2_SQL_Scripts/`: The database initialization script (`property_analysis.sql`) including table schemas and optimized summary view scripts.
-* `📁 3_PowerBI_Dashboard/`: The production-ready `.pbix` 4-page reporting model.
+* `📁 3_PowerBI_Dashboard/`: The production-ready `.pbix` 5-page reporting model.
 
 ---
 
