@@ -332,8 +332,8 @@ Provides detailed property-level analysis and supporting information for deeper 
 ![Key Influencers](Images/key_influencers.png)
 
 ### 6️⃣ Dashboard Details
-
-![Dashboard Details](Images/dashboard_details.png)
+[**Images/details.png**](Images/details.png)
+![Dashboard Details](Images/details.png) 
 🔎 Key Business Insights
 🏢 Property Type Distribution
 
