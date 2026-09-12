@@ -271,6 +271,7 @@ Provides detailed property-level analysis and supporting information for deeper 
 ## Dashboard Screenshot
 
 ![Executive Overview](Images/overview.png)
+
 🏢 Property Type Distribution
 
 The cleaned dataset contains:
