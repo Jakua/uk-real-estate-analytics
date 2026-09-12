@@ -34,45 +34,6 @@ After data cleaning, transformation, standardisation and validation, **21,361 re
 
 ## Dashboard Walkthrough
 
-The video below demonstrates the completed Power BI dashboard and its interactive analytical features.
-### ▶️ Watch the Full Dashboard Demonstration
-
-[🎥 Click here to watch the UK Real Estate Dashboard Demo](./UK_Real_Estate_Dashboard_Demo.mp4)
-
-The demonstration video is stored in:
-Images/
-└── UK_Real_Estate_Dashboard_Demo.mp4
-
-RAW UK PROPERTY DATA
-         │
-         ▼
-      PYTHON
-         │
-   ┌─────┴─────┐
-   │           │
-Data Cleaning  Data Transformation
-   │           │
-   └─────┬─────┘
-         ▼
-EXPLORATORY ANALYSIS
-         │
-         ▼
-       MYSQL
-         │
-         ▼
-    SQL ANALYSIS
-         │
-         ▼
-      POWER BI
-         │
-         ▼
-INTERACTIVE DASHBOARD
-         │
-         ▼
- BUSINESS INSIGHTS
-         │
-         ▼
- RECOMMENDATIONS
 
 🎯 Business Problem
 
