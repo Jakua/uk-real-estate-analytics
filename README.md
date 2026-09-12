@@ -36,49 +36,7 @@ After data cleaning, transformation, standardisation and validation, **21,361 re
 
 The video below demonstrates the completed Power BI dashboard and its interactive analytical features.
 
-### ▶️ Watch the Full Dashboard Demonstration
 
-[**🎥 Click here to watch the UK Real Estate Dashboard Demo**](./video/UK_Real_Estate_Dashboard_Demo.mp4)
-
-The demonstration video is stored in:
-
-```text
-video/
-└── UK_Real_Estate_Dashboard_Demo.mp4
-
-Note: GitHub may display the MP4 as a downloadable/openable file rather than an embedded video player. The link above allows users to open the demonstration directly from the repository.
-
-🔄 Data Analytics Pipeline
-                    RAW UK PROPERTY DATA
-                             │
-                             ▼
-                          PYTHON
-                             │
-                 ┌───────────┴───────────┐
-                 │                       │
-          Data Cleaning          Data Transformation
-                 │                       │
-                 └───────────┬───────────┘
-                             ▼
-                   EXPLORATORY ANALYSIS
-                             │
-                             ▼
-                          MYSQL
-                             │
-                             ▼
-                       SQL ANALYSIS
-                             │
-                             ▼
-                         POWER BI
-                             │
-                             ▼
-                  INTERACTIVE DASHBOARD
-                             │
-                             ▼
-                    BUSINESS INSIGHTS
-                             │
-                             ▼
-                     RECOMMENDATIONS
 🎯 Business Problem
 
 The UK property market contains a large volume of information about properties, prices and property characteristics. However, raw property data can be difficult to interpret and use for decision-making without appropriate data cleaning, analysis and visualisation.
