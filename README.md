@@ -35,6 +35,15 @@ After data cleaning, transformation, standardisation and validation, **21,361 re
 ## Dashboard Walkthrough
 
 The video below demonstrates the completed Power BI dashboard and its interactive analytical features.
+### ▶️ Watch the Full Dashboard Demonstration
+
+[🎥 Click here to watch the UK Real Estate Dashboard Demo](./video/UK_Real_Estate_Dashboard_Demo.mp4)
+
+The demonstration video is stored in:
+
+```text
+video/
+└── UK_Real_Estate_Dashboard_Demo.mp4
 
 
 🎯 Business Problem
