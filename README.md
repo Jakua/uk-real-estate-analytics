@@ -310,14 +310,9 @@ Uses the Power BI Key Influencers visual to investigate factors associated with 
 Provides detailed property-level analysis and supporting information for deeper exploration.
 
 # 📸 Dashboard Screenshots
+## Dashboard Screenshot
 
-![Executive Overview](https://raw.githubusercontent.com/Jakua/uk-real-estate-analytics/main/Images/overview.png)
-![Deep Market Analysis](Images/market_analysis.png)
-![Market Trend Analysis](Images/market_trend.png)
-![Price Distribution](Images/price_distribution.png)
-![Key Influencers](Images/key_influencers.png)
-![Dashboard Details](Images/details.png)
-🔎 Key Business Insights
+![Executive Overview](Images/overview.png)
 🏢 Property Type Distribution
 
 The cleaned dataset contains:
