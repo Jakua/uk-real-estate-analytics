@@ -40,9 +40,7 @@ The video below demonstrates the completed Power BI dashboard and its interactiv
 [🎥 Click here to watch the UK Real Estate Dashboard Demo](./UK_Real_Estate_Dashboard_Demo.mp4)
 
 The demonstration video is stored in:
-
-```text
-video/
+Images/
 └── UK_Real_Estate_Dashboard_Demo.mp4
 
 
