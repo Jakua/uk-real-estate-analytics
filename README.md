@@ -329,7 +329,7 @@ Provides detailed property-level analysis and supporting information for deeper 
 
 ### 5️⃣ Key Influencers
 
-[Images/key_influencers.png](Images/key_influencers.png)
+![Key Influencers](Images/key_influencers.png)
 
 ### 6️⃣ Dashboard Details
 
