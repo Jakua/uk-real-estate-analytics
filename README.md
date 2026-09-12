@@ -311,32 +311,11 @@ Provides detailed property-level analysis and supporting information for deeper 
 
 # 📸 Dashboard Screenshots
 
-### 6️⃣ Dashboard Details
-
-## 📸 Dashboard Screenshots
-
-### 1️⃣ Executive Overview
-
 ![Executive Overview](Images/overview.png)
-
-### 2️⃣ Deep Market Analysis
-
 ![Deep Market Analysis](Images/market_analysis.png)
-
-### 3️⃣ Market Trend Analysis
-
 ![Market Trend Analysis](Images/market_trend.png)
-
-### 4️⃣ Price Distribution
-
 ![Price Distribution](Images/price_distribution.png)
-
-### 5️⃣ Key Influencers
-
 ![Key Influencers](Images/key_influencers.png)
-
-### 6️⃣ Dashboard Details
-
 ![Dashboard Details](Images/details.png)
 🔎 Key Business Insights
 🏢 Property Type Distribution
