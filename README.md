@@ -313,7 +313,7 @@ Provides detailed property-level analysis and supporting information for deeper 
 
 ### 1️⃣ Executive Overview
 
-![Executive Overview](Images/overview.png.png)
+![Executive Overview].(Images/overview.png) 
 
 ### 2️⃣ Deep Market Analysis
 
