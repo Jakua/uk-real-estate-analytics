@@ -333,7 +333,7 @@ Provides detailed property-level analysis and supporting information for deeper 
 
 ### 6️⃣ Dashboard Details
 
-[Images/details.png](Images/details.png)
+![Dashboard Details](details.png)
 
 🔎 Key Business Insights
 🏢 Property Type Distribution
