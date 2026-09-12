@@ -311,52 +311,29 @@ Provides detailed property-level analysis and supporting information for deeper 
 
 # 📸 Dashboard Screenshots
 
-## 1️⃣ Executive Overview
+### 1️⃣ Executive Overview
 
-**Screenshot:** `./overview.png`
+![Executive Overview](Images/executive_overview.png)
 
-![Executive Overview](./overview.png)
+### 2️⃣ Deep Market Analysis
 
----
+![Deep Market Analysis](Images/deep_market_analysis.png)
 
-## 2️⃣ Deep Market Analysis
+### 3️⃣ Market Trend Analysis
 
-**Screenshot:** `./market_analysis.png`
+![Market Trend Analysis](Images/market_trend.png)
 
-![Deep Market Analysis](./market_analysis.png)
+### 4️⃣ Price Distribution
 
----
+![Price Distribution](Images/price_distribution.png)
 
-## 3️⃣ Market Trend Analysis
+### 5️⃣ Key Influencers
 
-**Screenshot:** `./market_trend.png`
+![Key Influencers](Images/key_influencers.png)
 
-![Market Trend Analysis](./market_trend.png)
+### 6️⃣ Dashboard Details
 
----
-
-## 4️⃣ Price Distribution
-
-**Screenshot:** `./price_distribution.png`
-
-![Price Distribution](./price_distribution.png)
-
----
-
-## 5️⃣ Key Influencers
-
-**Screenshot:** `./key_influencers.png`
-
-![Key Influencers](./key_influencers.png)
-
----
-
-## 6️⃣ Dashboard Details
-
-**Screenshot:** `./details.png`
-
-![Dashboard Details](./details.png)
-
+![Dashboard Details](Images/dashboard_details.png)
 🔎 Key Business Insights
 🏢 Property Type Distribution
 
