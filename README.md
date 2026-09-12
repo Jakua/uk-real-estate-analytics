@@ -311,7 +311,7 @@ Provides detailed property-level analysis and supporting information for deeper 
 
 # 📸 Dashboard Screenshots
 
-![Executive Overview](Images/overview.png)
+[overview.png](./overview.png)
 
 ![Deep Market Analysis](Images/market_analysis.png)
 
