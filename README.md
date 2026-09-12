@@ -311,29 +311,17 @@ Provides detailed property-level analysis and supporting information for deeper 
 
 # 📸 Dashboard Screenshots
 
-### 1️⃣ Executive Overview
+![Executive Overview](Images/overview.png)
 
-[Images/details.png](Images/details.png)
+![Deep Market Analysis](Images/market_analysis.png)
 
-### 2️⃣ Deep Market Analysis
+![Market Trend Analysis](Images/market_trend.png)
 
-[Images/market_analysis.png](Images/market_analysis.png)
-
-### 3️⃣ Market Trend Analysis
-
-[Images/market_trend.png](Images/market_trend.png)
-
-### 4️⃣ Price Distribution
-
-[Images/price_distribution.png](Images/price_distribution.png)
-
-### 5️⃣ Key Influencers
+![Price Distribution](Images/price_distribution.png)
 
 ![Key Influencers](Images/key_influencers.png)
 
-### 6️⃣ Dashboard Details
-
-![Dashboard Details](details.png)
+![Dashboard Details](Images/details.png)
 
 🔎 Key Business Insights
 🏢 Property Type Distribution
@@ -433,7 +421,7 @@ UK-Real-Estate-Market-Analytics/
 ├── data/
 │   └── properties_main_cleaned.xlsx
 │
-├── screenshots/
+├── Images/
 │   ├── overview.png
 │   ├── market_analysis.png
 │   ├── market_trend.png
