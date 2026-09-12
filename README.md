@@ -43,6 +43,36 @@ The demonstration video is stored in:
 Images/
 └── UK_Real_Estate_Dashboard_Demo.mp4
 
+RAW UK PROPERTY DATA
+         │
+         ▼
+      PYTHON
+         │
+   ┌─────┴─────┐
+   │           │
+Data Cleaning  Data Transformation
+   │           │
+   └─────┬─────┘
+         ▼
+EXPLORATORY ANALYSIS
+         │
+         ▼
+       MYSQL
+         │
+         ▼
+    SQL ANALYSIS
+         │
+         ▼
+      POWER BI
+         │
+         ▼
+INTERACTIVE DASHBOARD
+         │
+         ▼
+ BUSINESS INSIGHTS
+         │
+         ▼
+ RECOMMENDATIONS
 
 🎯 Business Problem
 
