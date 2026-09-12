@@ -309,18 +309,53 @@ Uses the Power BI Key Influencers visual to investigate factors associated with 
 
 Provides detailed property-level analysis and supporting information for deeper exploration.
 
-📸 Dashboard Screenshots
-1️⃣ Executive Overview
+# 📸 Dashboard Screenshots
 
-2️⃣ Deep Market Analysis
+## 1️⃣ Executive Overview
 
-3️⃣ Market Trend Analysis
+**Screenshot:** `./overview.png`
 
-4️⃣ Price Distribution
+![Executive Overview](./overview.png)
 
-5️⃣ Key Influencers
+---
 
-6️⃣ Dashboard Details
+## 2️⃣ Deep Market Analysis
+
+**Screenshot:** `./market_analysis.png`
+
+![Deep Market Analysis](./market_analysis.png)
+
+---
+
+## 3️⃣ Market Trend Analysis
+
+**Screenshot:** `./market_trend.png`
+
+![Market Trend Analysis](./market_trend.png)
+
+---
+
+## 4️⃣ Price Distribution
+
+**Screenshot:** `./price_distribution.png`
+
+![Price Distribution](./price_distribution.png)
+
+---
+
+## 5️⃣ Key Influencers
+
+**Screenshot:** `./key_influencers.png`
+
+![Key Influencers](./key_influencers.png)
+
+---
+
+## 6️⃣ Dashboard Details
+
+**Screenshot:** `./details.png`
+
+![Dashboard Details](./details.png)
 
 🔎 Key Business Insights
 🏢 Property Type Distribution
