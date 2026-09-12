@@ -279,6 +279,16 @@ Provides detailed property-level analysis and supporting information for deeper 
 
 ![Executive Overview](Images/overview.png)
 
+![Deep Market Analysis](Images/market_analysis.png)
+
+![Market Trend Analysis](Images/market_trend.png)
+
+![Price Distribution](Images/price_distribution.png)
+
+![Key Influencers](Images/key_influencers.png)
+
+![Dashboard Details](Images/details.png)
+
 🏢 Property Type Distribution
 
 The cleaned dataset contains:
